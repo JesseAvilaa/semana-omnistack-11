@@ -43,6 +43,27 @@ O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribui�
 
 Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=37%3A394). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 
+### 📦 Use application
+```bash
+# Clone this repository
+$ git clone https://github.com/JesseAvilaa/semana-omnistack-11.git
+
+# Install dependencies
+$ yarn or yarn install
+
+# Run Migrates
+$ yarn knex migrate:latest 
+
+# Run Seeds
+$ yarn seed
+
+# Run the API
+$ yarn dev
+
+# Run tests
+$ yarn test
+```
+
 ## 🤔 Como contribuir
 
 - Faça um fork desse repositório;
@@ -58,4 +79,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com ♥ by Jessé Ávila :wave: [Participe do meu discord!](https://discord.gg/YnSzeER)
