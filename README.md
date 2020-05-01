@@ -51,17 +51,10 @@ $ git clone https://github.com/JesseAvilaa/semana-omnistack-11.git
 # Install dependencies
 $ yarn or yarn install
 
-# Run Migrates
-$ yarn knex migrate:latest 
-
-# Run Seeds
-$ yarn seed
-
-# Run the API
+# Run
 $ yarn dev
+$ yarn start
 
-# Run tests
-$ yarn test
 ```
 
 ## 🤔 Como contribuir
